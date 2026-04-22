@@ -12,7 +12,7 @@ This repository contains two end-to-end data analytics projects focused on **sal
 
 ## 📌 Introduction
 
-This project analyzes the relationship between **job roles, salaries, and required skills** in the data domain. It focuses on identifying **what actually drives compensation** and how skill demand varies across roles.
+This project analyzes the relationships among job roles, salaries, and required skills in the data domain. It focuses on identifying **what actually drives compensation** and how skill demand varies across roles.
 
 ---
 
@@ -36,7 +36,7 @@ Most job seekers blindly learn skills without understanding:
 
 * Which skills actually increase salary
 * How many skills are expected per role
-* Differences between US vs non-US salary structures
+* Differences between US and non-US salary structures
 
 This project eliminates guesswork by quantifying these relationships.
 
@@ -87,23 +87,18 @@ This project eliminates guesswork by quantifying these relationships.
 
 ## 📊 Charts & Visualizations
 
-*(Add your screenshots below)*
-
 ### Salary vs Skills
 
-[Insert Chart Image Here]
-
-### Salary Comparison (US vs Non-US)
-
-[Insert Chart Image Here]
+<img width="483" height="320" alt="Bar-Chart" src="https://github.com/user-attachments/assets/3d143723-d43d-4cf2-a2fb-d1e24c466f38" />
 
 ### Skill Likelihood Distribution
 
-[Insert Chart Image Here]
+<img width="530" height="290" alt="Bar-Chart1" src="https://github.com/user-attachments/assets/cbcc022b-ba09-48b2-8693-c8ae72e309a6" />
+
 
 ### Skill vs Salary Mapping
 
-[Insert Chart Image Here]
+<img width="534" height="328" alt="Graph" src="https://github.com/user-attachments/assets/c668e8d9-75e8-4aba-b260-0ec8763356da" />
 
 ---
 
@@ -113,7 +108,7 @@ This project reveals a critical insight most beginners miss:
 
 > The market rewards **specific, high-impact skills**, not random skill accumulation.
 
-If you’re learning without strategy, you’re wasting time. The data clearly shows that **targeted skill acquisition aligned with role demand** is what drives compensation.
+If you’re learning without a strategy, you’re wasting time. The data clearly shows that **targeted skill acquisition aligned with role demand** is what drives compensation.
 
 ---
 
@@ -165,8 +160,8 @@ This dashboard solves that by making the data actionable.
 ### 1. Role-Based Salary Insights
 
 * Senior Data Scientist → highest median (~155K)
-* Data Scientist & Engineer roles consistently high-paying
-* Data Analyst roles lower but more abundant
+* Data Scientist & Engineer roles are consistently high-paying
+* Data Analyst roles are lower but more abundant
 
 ### 2. Job Distribution
 
@@ -196,59 +191,6 @@ This dashboard solves that by making the data actionable.
 
 ## 📊 Charts & Visualizations
 
-*(Add your screenshots below)*
-
-### Salary by Job Role
-
-[Insert Dashboard Image Here]
-
-### Salary by Country
-
-[Insert Chart Image Here]
-
-### Job Type vs Salary
-
-[Insert Chart Image Here]
-
-### Platform Job Distribution
-
-[Insert Chart Image Here]
+<img width="1366" height="736" alt="Data Science Salary Dashboard - Project 2" src="https://github.com/user-attachments/assets/1e98db48-7626-4fe0-8ae0-0963512c9ea6" />
 
 ---
-
-## 🧠 Conclusion
-
-This dashboard highlights a blunt reality:
-
-> The job market is not equal—**location, role, and platform exposure dictate opportunity.**
-
-If you’re applying randomly without understanding:
-
-* where the jobs are
-* which roles pay
-* which platforms matter
-
-…you’re operating blind.
-
----
-
-# 🚀 Final Takeaway
-
-Both projects demonstrate:
-
-* Strong analytical thinking
-* Ability to convert raw data → insights
-* Practical business understanding of the job market
-
-But here’s the uncomfortable truth:
-
-You’re still at the **analysis stage**.
-If you want leverage, you need to move toward:
-
-* Automation (Python/SQL pipelines)
-* Deployment (dashboards on web apps)
-* Decision-making tools (not just analysis)
-
----
-
-If you want, I can **upgrade this README into a top 1% portfolio piece** (with GitHub structure, visuals strategy, and recruiter psychology baked in).
